@@ -1,0 +1,2 @@
+word	hello	hello	hello
+word	word	welcome	welcome
